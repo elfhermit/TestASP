@@ -2,7 +2,7 @@
 <%
 Response.Expires = 0
 Response.Charset = "utf-8"
-Response.ContentType = "text/xml"
+Response.ContentType = "text/html"
 %>
 
 <%
